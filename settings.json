@@ -1,0 +1,46 @@
+{
+    "always_show_minimap_viewport": true,
+    "auto_complete_delay": 0,
+    "bold_folder_labels": true,
+    "caret_style": "phase",
+    "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+    "create_window_at_startup": "false",
+    "ensure_newline_at_eof_on_save": true,
+    "fade_fold_buttons": false,
+    "findreplace_small": true,
+    "folder_exclude_patterns":
+    [
+        ".git",
+        "node_modules"
+    ],
+    "font_face": "Source Code Pro",
+    "font_size": 13,
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
+    "hot_exit": false,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "line_numbers": true,
+    "line_padding_bottom": 9,
+    "line_padding_top": 9,
+    "margin": 20,
+    "overlay_scroll_bars": "enabled",
+    "remember_open_files": false,
+    "rulers":
+    [
+        120
+    ],
+    "save_on_focus_lost": true,
+    "show_definitions": false,
+    "show_encoding": true,
+    "show_panel_on_build": false,
+    "tab_size": 4,
+    "theme": "Material-Theme.sublime-theme",
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "use_simple_full_screen": true,
+    "wide_caret": true,
+    "word_wrap": false
+}
