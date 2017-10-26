@@ -1,10 +1,21 @@
 {
     "always_show_minimap_viewport": true,
     "auto_complete_delay": 0,
+    "auto_complete_triggers":
+    [
+        {
+            "characters": "<",
+            "selector": "text.html"
+        },
+        {
+            "characters": ".",
+            "selector": "source.js"
+        }
+    ],
     "auto_find_in_selection": false,
     "bold_folder_labels": true,
     "caret_style": "phase",
-    "color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
+    "color_scheme": "Packages/ayu/ayu-light.tmTheme",
     "create_window_at_startup": "false",
     "ensure_newline_at_eof_on_save": true,
     "fade_fold_buttons": false,
@@ -13,6 +24,11 @@
     [
         ".git",
         "node_modules"
+    ],
+    "file_exclude_patterns":
+    [
+        "*.map",
+        ".DS_Store"
     ],
     "font_face": "Fira Code",
     "font_size": 13,
@@ -29,10 +45,7 @@
     "margin": 20,
     "overlay_scroll_bars": "enabled",
     "remember_open_files": false,
-    "rulers":
-    [
-        120
-    ],
+    "rulers": false,
     "save_on_focus_lost": true,
     "scroll_past_end": true,
     "show_definitions": false,
@@ -40,7 +53,7 @@
     "show_panel_on_build": false,
     "sidebar_large": true,
     "tab_size": 4,
-    "theme": "ayu-mirage.sublime-theme",
+    "theme": "ayu-light.sublime-theme",
     "translate_tabs_to_spaces": true,
     "trim_trailing_white_space_on_save": true,
     "ui_big_tabs": true,
