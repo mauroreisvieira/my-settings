@@ -1,0 +1,24 @@
+{
+    "js": {
+        "log_types"    : [
+            "log",
+            "info",
+            "warn",
+            "error",
+            "dir",
+            "assert",
+            "debug",
+            "count",
+            "group",
+            "groupEnd",
+            "time",
+            "timeEnd",
+            "profile",
+            "profileEnd",
+            "trace"
+        ]
+    },
+    "php" : {
+        "dieAfterLog"  : true
+    }
+}

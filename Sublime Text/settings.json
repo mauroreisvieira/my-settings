@@ -4,7 +4,7 @@
     "auto_find_in_selection": false,
     "bold_folder_labels": true,
     "caret_style": "phase",
-    "color_scheme": "Packages/User/SublimeLinter/InspiredGitHub (SL).tmTheme",
+    "color_scheme": "Packages/DA UI/DA Dark.tmTheme",
     "create_window_at_startup": "false",
     "ensure_newline_at_eof_on_save": true,
     "fade_fold_buttons": false,
@@ -16,7 +16,6 @@
     "findreplace_small": true,
     "folder_exclude_patterns":
     [
-        "node_modules",
         ".git"
     ],
     "font_face": "Fira Code",
@@ -43,11 +42,13 @@
     "show_encoding": true,
     "show_panel_on_build": false,
     "sidebar_large": true,
+    "skin": "DA UI/Classic",
     "tab_size": 4,
-    "theme": "Default.sublime-theme",
+    "theme": "DA.sublime-theme",
     "translate_tabs_to_spaces": true,
     "trim_trailing_white_space_on_save": true,
     "ui_big_tabs": true,
+    "ui_font_roboto_mono": true,
     "ui_sidebar_highlight_row": true,
     "use_simple_full_screen": true,
     "wide_caret": true,

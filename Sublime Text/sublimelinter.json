@@ -1,0 +1,193 @@
+{
+    "debug": true,
+    "delay": 0.25,
+    "error_color": "D02000",
+    "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
+    "gutter_theme_excludes": [],
+    "lint_mode": "background",
+    "linters": {
+        "csslint": {
+            "@disable": false,
+            "args": [],
+            "errors": "",
+            "excludes": [],
+            "ignore": "",
+            "warnings": ""
+        },
+        "eslint": {
+            "@disable": false,
+            "args": [],
+            "excludes": [
+                "**/node_modules/**",
+                "**/vendor/**"
+            ]
+        },
+        "htmlhint": {
+            "@disable": false,
+            "args": [],
+            "excludes": []
+        },
+        "htmllint": {
+            "@disable": false,
+            "args": [],
+            "excludes": []
+        },
+        "htmltidy": {
+            "@disable": false,
+            "args": [],
+            "excludes": []
+        },
+        "jshint": {
+            "@disable": false,
+            "args": [
+                "boss: false",
+                "curly: true",
+                "eqeqeq: false",
+                "eqnull: true",
+                "expr: true",
+                "immed: true",
+                "latedef: true",
+                "noarg: true",
+                "node: true",
+                "quotmark: 'double'",
+                "smarttabs: true",
+                "trailing: true",
+                "undef: true",
+                "unused: true"
+            ],
+            "excludes": []
+        },
+        "json": {
+            "@disable": false,
+            "args": [],
+            "excludes": [],
+            "strict": true
+        },
+        "php": {
+            "@disable": false,
+            "args": [],
+            "excludes": []
+        },
+        "phpcs": {
+            "@disable": false,
+            "args": [
+                "-n"
+            ],
+            "excludes": [
+                "*.phtml",
+                "*.twig"
+            ],
+            "standard": "PSR2"
+        },
+        "phplint": {
+            "@disable": false,
+            "args": [
+                "--print-errors",
+                "--print-warnings",
+                "--print-notices",
+                "--ascii-ext-check",
+                "--ctrl-check",
+                "--recursive",
+                "--no-print-file-name",
+                "--parse-phpdoc",
+                "--print-context",
+                "--print-source",
+                "--print-line-numbers",
+                "--report-unused"
+            ],
+            "excludes": []
+        },
+        "phpmd": {
+            "@disable": false,
+            "args": [],
+            "excludes": [],
+            "rulesets": "cleancode,codesize,controversial,design,naming,unusedcode"
+        },
+        "sass": {
+            "@disable": false,
+            "args": [],
+            "excludes": []
+        },
+        "scss": {
+            "@disable": true,
+            "args": [],
+            "exclude-linter": "",
+            "excludes": [],
+            "include-linter": ""
+        },
+        "stylelint": {
+            "@disable": false,
+            "args": [],
+            "excludes": []
+        },
+        "tslint": {
+            "@disable": false,
+            "args": [],
+            "config_filename": "tslint.json",
+            "excludes": [
+                "**/node_modules/**"
+            ]
+        }
+    },
+    "mark_style": "solid underline",
+    "no_column_highlights_line": false,
+    "passive_warnings": false,
+    "paths": {
+        "linux": [],
+        "osx": [],
+        "windows": []
+    },
+    "python_paths": {
+        "linux": [],
+        "osx": [],
+        "windows": []
+    },
+    "rc_search_limit": 3,
+    "shell_timeout": 10,
+    "show_errors_on_save": false,
+    "show_marks_in_minimap": true,
+    "syntax_map": {
+        "coffeescript (gulpfile)": "coffeescript",
+        "html (django)": "html",
+        "html (rails)": "html",
+        "html 5": "html",
+        "javascript (babel)": "javascript",
+        "javascript (eslint)": "javascript",
+        "javascript (gruntfile)": "javascript",
+        "javascript (gulpfile)": "javascript",
+        "javascript (postcss)": "javascript",
+        "javascript (stylelint)": "javascript",
+        "javascript (webpack)": "javascript",
+        "json (babel)": "json",
+        "json (bower)": "json",
+        "json (composer)": "json",
+        "json (eslint)": "json",
+        "json (npm)": "json",
+        "json (postcss)": "json",
+        "json (settings)": "json",
+        "json (stylelint)": "json",
+        "json (sublime)": "json",
+        "json (tern js)": "json",
+        "magicpython": "python",
+        "php": "php",
+        "phtml": "html",
+        "python django": "python",
+        "pythonimproved": "python",
+        "scss": "scss",
+        "xml (config)": "xml",
+        "xml (svg)": "xml",
+        "yaml (circleci)": "yaml",
+        "yaml (docker)": "yaml",
+        "yaml (eslint)": "yaml",
+        "yaml (lock)": "yaml",
+        "yaml (procfile)": "yaml",
+        "yaml (stylelint)": "yaml",
+        "yaml (yarn)": "yaml"
+    },
+    "tooltip_fontsize": "1rem",
+    "tooltip_theme": "Packages/SublimeLinter/tooltip-themes/Default/Default.tooltip-theme",
+    "tooltip_theme_excludes": [],
+    "tooltips": true,
+    "warning_color": "ff9800",
+    "wrap_find": true
+}
