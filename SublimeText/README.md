@@ -2,6 +2,8 @@
 
 ### A sophisticated text editor for code, markup and prose
 
+#### 📦 Packages List
+
 **Themes:**
 - ✅ [DA UI](https://github.com/randy3k/AlignTab)
 - ✅ [ayu](https://github.com/dempfi/ayu)
@@ -10,6 +12,7 @@
 **Customization:**
 - ✅ [A File Icon](https://github.com/ihodev/a-file-icon)
 - ✅ [BracketHighlighter](https://github.com/BoundInCode/AutoFileName)
+- ✅ [SideBarTools](https://github.com/braver/SideBarTools)
 
 **Helpers:**
 - ✅ [AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile)
@@ -27,14 +30,13 @@
 - ❓ [JSHint]()
 - ❓ [Markdown Preview]()
 - ❓ [PHP Companion]()
-- ❓ [SCSS]()
-- ❓ [SideBarTools]()
+- ✅ [SCSS](https://github.com/MarioRicalde/SCSS.tmbundle)
 - ❓ [SublimeCodeIntel]()
 - ❓ [TypeScript]()
 - ❓ [Vue Syntax Highlight]()
 
 **Linter:**
-- ❓ [SublimeLinter]()
+- ✅ [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter)
 - ❓ [SublimeLinter-contrib-eslint]()
 - ❓ [SublimeLinter-contrib-sass-lint]()
 - ❓ [SublimeLinter-contrib-scss-lint]()
