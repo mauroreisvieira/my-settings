@@ -33,9 +33,9 @@
 
 **Syntax:**
 - ✅ [SCSS](https://github.com/MarioRicalde/SCSS.tmbundle)
-- ❓ [Laravel Blade Highlighter]()
-- ❓ [TypeScript](https://github.com/Microsoft/TypeScript-Sublime-Plugin)
-- ❓ [Vue Syntax Highlight]()
+- ✅ [Laravel Blade Highlighter](https://github.com/Medalink/laravel-blade)
+- ✅ [TypeScript](https://github.com/Microsoft/TypeScript-Sublime-Plugin)
+- ✅ [Vue Syntax Highlight](https://github.com/vuejs/vue-syntax-highlight)
 
 **Linter:**
 - ✅ [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter)
