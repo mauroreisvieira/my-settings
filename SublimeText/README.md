@@ -25,14 +25,16 @@
 - ✅ [HyperClick](https://github.com/aziz/SublimeHyperClick)
 - ❓ [JavaScript & NodeJS Snippets]()
 - ❓ [JavaScript Completions]()
-- ❓ [Laravel Blade Highlighter]()
 - ❓ [LiveReload]()
 - ❓ [JSHint]()
 - ❓ [Markdown Preview]()
 - ❓ [PHP Companion]()
-- ✅ [SCSS](https://github.com/MarioRicalde/SCSS.tmbundle)
 - ❓ [SublimeCodeIntel]()
-- ❓ [TypeScript]()
+
+**Syntax:**
+- ✅ [SCSS](https://github.com/MarioRicalde/SCSS.tmbundle)
+- ❓ [Laravel Blade Highlighter]()
+- ❓ [TypeScript](https://github.com/Microsoft/TypeScript-Sublime-Plugin)
 - ❓ [Vue Syntax Highlight]()
 
 **Linter:**
