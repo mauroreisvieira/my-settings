@@ -1,5 +1,9 @@
 # Sublime Text 3
 
+<p align="center">
+    <img width="160" src="../assets/sublime_text_3.png">
+</p>
+
 ### A sophisticated text editor for code, markup and prose
 
 #### 📦 Packages List
