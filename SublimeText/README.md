@@ -27,13 +27,13 @@
 - ✅ [Console Wrap](https://github.com/unknownuser88/consolewrap)
 - ✅ [DocBlockr](https://github.com/spadgos/sublime-jsdocs)
 - ✅ [HyperClick](https://github.com/aziz/SublimeHyperClick)
-- ❓ [JavaScript & NodeJS Snippets](https://github.com/robdodson/sublime-snippets-js)
-- ❓ [JavaScript Completions](https://github.com/pichillilorenzo/JavaScript-Completions)
-- ❓ [LiveReload](https://github.com/alepez/LiveReload-sublimetext3)
-- ❓ [JSHint](https://github.com/SublimeLinter/SublimeLinter-jshint)
-- ❓ [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
-- ❓ [PHP Companion](https://github.com/erichard/SublimePHPCompanion)
-- ❓ [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel)
+- ✅ [JavaScript & NodeJS Snippets](https://github.com/robdodson/sublime-snippets-js)
+- ✅ [JavaScript Completions](https://github.com/pichillilorenzo/JavaScript-Completions)
+- ✅ [LiveReload](https://github.com/alepez/LiveReload-sublimetext3)
+- ✅ [JSHint](https://github.com/SublimeLinter/SublimeLinter-jshint)
+- ✅ [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
+- ✅ [PHP Companion](https://github.com/erichard/SublimePHPCompanion)
+- ✅ [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel)
 
 **Syntax:**
 - ✅ [SCSS](https://github.com/MarioRicalde/SCSS.tmbundle)
@@ -43,13 +43,13 @@
 
 **Linter:**
 - ✅ [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter)
-- ❓ [SublimeLinter-contrib-eslint]()
-- ❓ [SublimeLinter-contrib-sass-lint]()
-- ❓ [SublimeLinter-contrib-scss-lint]()
-- ❓ [SublimeLinter-contrib-stylelint]()
-- ❓ [SublimeLinter-contrib-tslint]()
-- ❓ [SublimeLinter-jshint]()
-- ❓ [SublimeLinter-php]()
+- ✅ [SublimeLinter-contrib-eslint](https://github.com/roadhump/SublimeLinter-eslint)
+- ✅ [SublimeLinter-contrib-sass-lint](https://github.com/skovhus/SublimeLinter-contrib-sass-lint)
+- ✅ [SublimeLinter-contrib-scss-lint](https://github.com/attenzione/SublimeLinter-scss-lint)
+- ✅ [SublimeLinter-contrib-stylelint](https://github.com/kungfusheep/SublimeLinter-contrib-stylelint)
+- ✅ [SublimeLinter-contrib-tslint](https://github.com/lavrton/SublimeLinter-contrib-tslint)
+- ✅ [SublimeLinter-jshint](https://github.com/SublimeLinter/SublimeLinter-jshint)
+- ✅ [SublimeLinter-php](https://github.com/SublimeLinter/SublimeLinter-php)
 
 **Git:**
 - ✅ [GitGutter](https://github.com/jisaacks/GitGutter)
