@@ -121,7 +121,8 @@ module.exports = {
     // "hyper-material-theme",
     "hypercwd",
     "hyperterm-tab-icons",
-    "hypermaterial-vibrancy"
+    "hypermaterial-vibrancy",
+    "hyper-statusline"
     // "hyperterm-overlay"
   ],
 
