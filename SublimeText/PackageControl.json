@@ -1,0 +1,57 @@
+{
+    "bootstrapped": true,
+    "in_process_packages":
+    [
+    ],
+    "install_prereleases":
+    [
+        "SublimeLinter",
+        "GitGutter"
+    ],
+    "installed_packages":
+    [
+        "A File Icon",
+        "AdvancedNewFile",
+        "AlignTab",
+        "All Autocomplete",
+        "AutoFileName",
+        "Babel",
+        "BracketHighlighter",
+        "ColorHelper",
+        "Console Wrap",
+        "DA UI",
+        "DocBlockr",
+        "Emmet",
+        "GitGutter",
+        "Github Color Theme",
+        "GitSavvy",
+        "HyperClick",
+        "JavaScript & NodeJS Snippets",
+        "JavaScript Completions",
+        "JavaScript Console",
+        "JSHint",
+        "Laravel Blade Highlighter",
+        "LiveReload",
+        "Markdown Preview",
+        "Package Control",
+        "PackagesUI",
+        "PHP Companion",
+        "php-snippets",
+        "SCSS",
+        "SideBarTools",
+        "SublimeCodeIntel",
+        "SublimeLinter",
+        "SublimeLinter-contrib-sass-lint",
+        "SublimeLinter-contrib-scss-lint",
+        "SublimeLinter-contrib-stylelint",
+        "SublimeLinter-contrib-tslint",
+        "SublimeLinter-eslint",
+        "SublimeLinter-jshint",
+        "SublimeLinter-php",
+        "SublimeLinter-phpcs",
+        "TerminalView",
+        "TypeScript",
+        "TypeScript Syntax",
+        "Vue Syntax Highlight"
+    ]
+}
