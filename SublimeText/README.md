@@ -34,6 +34,7 @@
 - ✅ [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
 - ✅ [PHP Companion](https://github.com/erichard/SublimePHPCompanion)
 - ✅ [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel)
+- ✅ [JavaScript Enhancements](https://github.com/pichillilorenzo/JavaScriptEnhancements)
 
 **Syntax:**
 - ✅ [SCSS](https://github.com/MarioRicalde/SCSS.tmbundle)
