@@ -12,6 +12,7 @@
 - ✅ [DA UI](https://github.com/randy3k/AlignTab)
 - ✅ [ayu](https://github.com/dempfi/ayu)
 - ✅ [Material Theme](https://github.com/equinusocio/material-theme)
+- ✅ [Material Theme](https://github.com/Yummygum/city-lights-sublime)
 
 **Customization:**
 - ✅ [A File Icon](https://github.com/ihodev/a-file-icon)
