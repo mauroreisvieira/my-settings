@@ -9,10 +9,10 @@ module.exports = {
     updateChannel: 'stable',
 
     // default font size in pixels for all tabs
-    fontSize: 14,
+    fontSize: 16,
 
     // font family with optional fallbacks
-    fontFamily: '"Operator Mono", "Inconsolata for Powerline", monospace',
+    fontFamily: '"Inconsolata for Powerline", "FiraCode-Regular", monospace',
 
     // terminal cursor background color and opacity (hex, rgb, hsl, hsv, hwb or cmyk)
     cursorColor: '#64FFDA',
@@ -72,7 +72,7 @@ module.exports = {
       lightWhite: '#ffffff'
     },
 
-   backgroundOpacity: '.7',
+   backgroundOpacity: '.5',
 
     // the shell to run when spawning a new session (i.e. /usr/local/bin/fish)
     // if left empty, your system's login shell will be used by default
@@ -121,9 +121,11 @@ module.exports = {
     // "hyper-material-theme",
     "hypercwd",
     "hyperterm-tab-icons",
+    // "hyperterm-overlay",
     "hypermaterial-vibrancy",
-    "hyper-statusline"
-    // "hyperterm-overlay"
+    // "hyper-pokemon"
+    "hyper-statusline",
+    "verminal"
   ],
 
   // in development, you can create a directory under
